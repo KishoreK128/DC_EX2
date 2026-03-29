@@ -52,11 +52,9 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
 # Calculation:
-![cal1](https://github.com/user-attachments/assets/93471ce5-a741-4725-b91b-fed0a06b34d9)
+![WhatsApp Image 2026-03-29 at 3 15 22 PM](https://github.com/user-attachments/assets/a8cc1156-20e6-4000-a85c-084fdd7c106c)
 
-![cal2](https://github.com/user-attachments/assets/202a4998-4605-49c4-986a-9ead65ed0718)
-
-![cal3](https://github.com/user-attachments/assets/e528086a-612a-40bc-a8c1-562c84a4d4d6)
+![WhatsApp Image 2026-03-29 at 3 15 22 PM (1)](https://github.com/user-attachments/assets/6576c91d-2fe7-4c17-9816-5f295e73e4f5)
 
 
 # Output
